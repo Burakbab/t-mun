@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+}
+.carousel-inner{
+    max-height: 500px !important;
+}
+.carousel img{
+    max-height: 500px;
+    height: auto;
+    width: auto;
+    margin: auto;
+}
