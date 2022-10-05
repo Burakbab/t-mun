@@ -1,5 +1,6 @@
 body{
     background-color: burlywood;
+    font-family: "Kostania Thin";
 }
 .carousel-inner{
     max-height: 500px !important;
@@ -9,4 +10,16 @@ body{
     height: auto;
     width: auto;
     margin: auto;
+}
+head{
+    font-family: "Kostania Thin";
+}
+.column {
+  width: 100%;
+}
+
+@media (min-width: 600px) {
+  .column {
+    width: 50%;
+  }
 }
